@@ -24,6 +24,6 @@ Here are the main tools and technologies I use to make data come to life:
 
 I’m always open to new data analyst and business intelligence roles, or just chatting about data! You can find me here:
 
-* 🌐 **My Portfolio:** [LewisGithu.github.io](https://github.io)
+* 🌐 **My Portfolio:** [LewisGithu.github.io](https://LewisGithu.github.io)
 * 📨 **Email:** lewisjosephgithu@gmail.com
-* ✈️ **Telegram:** [@Lewiji](https://t.me)
+* ✈️ **Telegram:** [@Lewiji](https://t.me/Lewiji)
