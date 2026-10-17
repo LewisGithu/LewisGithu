@@ -11,13 +11,13 @@ Here are the main tools and technologies I use to make data come to life:
 
 ### 📊 Projects I’ve Been Working On
 
-* **🪙 Crypto Trend Tracker ([CoinMarketCap API Pipeline](https://github.com))**  
+* **🪙 Crypto Trend Tracker ([CoinMarketCap API Pipeline]([https://github.com](https://github.com/LewisGithu/CoinmarketAPI)))**  
   I built an automated Python script that hooks directly into the CoinMarketCap API. It cleans up raw JSON data streams and drops them into clean Pandas DataFrames so anyone can track live crypto trends easily.
 
-* **📋 Global Data Profession Dashboard ([Power BI Report](https://github.com))**  
+* **📋 Data Profession Dashboard ([Power BI Report]([https://github.com](https://github.com/LewisGithu/Power-BI-Data-Profession-Dashboard)))**  
   Curious about what data pros make around the world? I took raw survey data from 630 global entries, cleaned it up using Power Query, and built an interactive dashboard to show workplace demographics and pay trends.
 
-* **🚲 Bike Store Sales Tracker ([Excel Data Product](https://github.com))**  
+* **🚲 Bike Store Sales Tracker ([Excel Data Product]([https://github.com](https://github.com/LewisGithu/EXCEL-Bike-Sales-Project)))**  
   An end-to-end spreadsheet tool built from scratch. I used Power Query to model retail data, making it simple to track major performance metrics and see exactly how customer demographics impact buying habits.
 
 ### 📬 Let's Chat!
