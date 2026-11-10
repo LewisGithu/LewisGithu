@@ -7,6 +7,7 @@ I’m a **Data Analyst based in Kenya** with a passion for turning messy, comple
 Here are the main tools and technologies I use to make data come to life:
 * **Languages:** Python (Pandas, NumPy, Requests) & SQL
 * **Business Intelligence:** Power BI Desktop & Tableau Public
+* **Cloud Platform and AI/BI:** Databricks
 * **Spreadsheets:** Microsoft Excel (Advanced Pivot Tables, XLOOKUP, & Power Query)
 
 ### 📊 Projects I’ve Been Working On
