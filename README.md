@@ -16,7 +16,7 @@ Here are the main tools and technologies I use to make data come to life:
   An end-to-end data pipeline that extracts channel video metrics using the YouTube Data API. Unstructured video data is processed in Databricks, where a Google Gemini AI model automatically parses and classifies content categories and vehicle models, feeding into an [interactive Tableau dashboard](https://public.tableau.com/app/profile/lewis.githu1620/viz/WaigeraYouTubeChannelPerformance/Dashboard).
 
 * **🎬 Rumble Channel Analytics & Medallion ETL ([Databricks Pipeline](https://github.com/LewisGithu/Rumble-Web-Scrapping))**
-  An end-to-end data engineering pipeline that extracts livestream performance metrics from Rumble using Python, Playwright, and BeautifulSoup. Raw HTML snapshots are parsed into structured datasets and processed in Databricks across Bronze, Silver, and Gold Delta tables, culminating in an ([interactive Databricks BI dashboard](https://github.com/LewisGithu/Rumble-Web-Scrapping/blob/main/dashboard.pdf)).
+  An end-to-end data engineering pipeline that extracts livestream performance metrics from Rumble using Python, Playwright, and BeautifulSoup. Raw HTML snapshots are parsed into structured datasets and processed in Databricks across Bronze, Silver, and Gold Delta tables, culminating in an [interactive Databricks BI dashboard](https://github.com/LewisGithu/Rumble-Web-Scrapping/blob/main/dashboard.pdf).
 
 
 * **🪙 Crypto Trend Tracker ([CoinMarketCap API Pipeline](https://github.com/LewisGithu/CoinmarketAPI))**  
